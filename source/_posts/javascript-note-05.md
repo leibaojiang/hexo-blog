@@ -20,6 +20,8 @@ tags:
 - 属性:栈顶元素位置number:top
 - 属性:栈内是否有元素boolean:empty  //可以使用top=0进行判断,
 
+<!--more-->
+
 ```
 function Stack(){
     this.dataStore = [];

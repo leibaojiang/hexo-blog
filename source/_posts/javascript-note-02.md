@@ -20,6 +20,9 @@ for (var i = 0; i < rows; ++i) {
 }
 console.log(twod);//[ [], [], [], [], [] ]
 ```
+
+<!--more-->
+
 为数组类添加方法matrix(行数,列数,初始值),用于创建二维数组并初始化.
 ```
 Array.matrix = function(rows,cols,initial){

@@ -27,6 +27,8 @@ archerding@ubuntu:~$ ls /tmp/core/
 core-hello.2213
 ```
 
+<!--more-->
+
 接下来开始解析这个core文件;错误提示非常明显`Program terminated with signal SIGQUIT, Quit.`;
 
 ```
